@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Wenn Sie dieses Tool in Ihrer Arbeit verwenden, zitieren Sie es bitte wie folgt:"
+title: "Stichprobenrechner für unendliche und endliche Grundgesamtheiten (v2.0)"
+authors:
+  - family-names: "Janatzek"
+    given-names: "Uwe"
+    # orcid: "https://orcid.org/0009-0000-4404-7626"
+date-released: 2026-07-15
+url: "https://doi.org/10.5281/zenodo.21316179"
