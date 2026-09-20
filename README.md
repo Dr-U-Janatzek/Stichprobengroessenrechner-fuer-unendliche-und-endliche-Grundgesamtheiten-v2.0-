@@ -18,6 +18,7 @@ This tool is specifically engineered for educators, researchers in the social sc
 ### 🔬 Academic Origin & Legal Reference
 
 * **Academic Foundation:** Originally developed for *Lecture 3 – Advanced Scientific Methods* within the Propedeutic Seminars (B.A. programs) at the **Evangelische Hochschule Bochum** (University of Applied Sciences). It remains widely utilized in academic teaching and empirical research.
+* **Historic Live-URL:** [https://www.fledisoft.de/stichprobengroesse_berechnen.php](https://www.fledisoft.de/stichprobengroesse_berechnen.php)
 * **Judicial Reference & Validation:** Legally recognized and cited as a theoretical reference tool by the **Higher Administrative Court of Baden-Württemberg (Verwaltungsgerichtshof Baden-Württemberg)** in its decision dated April 20, 2020 (*Az. 4 S 3276/19, ECLI:DE:VGHBW:2020:0420.4S3276.19.00*).
   * Judicial Permanent Link: [Landesrecht BW (NJRE001420817)](https://www.landesrecht-bw.de/perma?d=NJRE001420817)
 
@@ -94,6 +95,7 @@ Das Tool richtet sich insbesondere an Lehrende und Forschende der Sozialwissensc
 ### 🔬 Akademischer Ursprung & Praxisnachweis
 
 * **Akademisches Fundament:** Ursprünglich erstellt für die *Lehrveranstaltung 3 – Vertiefung wissenschaftlicher Methoden* – im Rahmen der Propädeutik-Seminare (B.A.-Studiengänge) an der **Evangelischen Hochschule Bochum**. Es findet breite Anwendung in der akademischen Lehre und empirischen Forschung.
+* **Historische Live-URL:** [http://www.fledisoft.de/stichprobengroesse_berechnen.php](http://www.fledisoft.de/stichprobengroesse_berechnen.php)
 * **Gerichtliche Referenzierung:** Durch Beschluss des **Verwaltungsgerichtshofs Baden-Württemberg** vom 20.04.2020 (*Az. 4 S 3276/19, ECLI:DE:VGHBW:2020:0420.4S3276.19.00*) offiziell als stichprobentheoretisches Referenzwerkzeug gewürdigt.
   * Gerichtlicher Permanentlink: [Landesrecht BW (NJRE001420817)](https://www.landesrecht-bw.de/perma?d=NJRE001420817)
 
