@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21316179.svg)](https://doi.org/10.5281/zenodo.21316179)
 # Calculation of Required Minimum Sample Size (Version 2.0)
 
 [ 🇬🇧 English Documentation ](#english) | [ 🇩🇪 Deutsche Dokumentation ](#deutsch)
