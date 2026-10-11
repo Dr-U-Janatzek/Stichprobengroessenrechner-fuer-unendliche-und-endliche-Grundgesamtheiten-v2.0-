@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21316179.svg)](https://doi.org/10.5281/zenodo.21316179)
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:e50a2ae588258f691f916a92e6b10c94fda2e2e2/)](https://archive.softwareheritage.org/swh:1:dir:e50a2ae588258f691f916a92e6b10c94fda2e2e2;origin=https://doi.org/10.5281/zenodo.23003341;visit=swh:1:snp:f2160ae22cc9ca6a9f557ff83b63a46ec9f0ebe8;anchor=swh:1:rel:ea31b197a9d651521b06a369ed1720279cb52eab;path=/Dr-U-Janatzek-Stichprobengroessenrechner-fuer-unendliche-und-endliche-Grundgesamtheiten-v2.0--1026e74/)
 # Calculation of Required Minimum Sample Size (Version 2.0)
 
 [ 🇬🇧 English Documentation ](#english) | [ 🇩🇪 Deutsche Dokumentation ](#deutsch)
